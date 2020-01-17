@@ -58,6 +58,7 @@ RUN \
 	php7-sqlite3 \
 	php7-xmlreader \
 	php7-zip \
+	php7-pdlib \
 	samba-client \
 	sudo \
 	tar \

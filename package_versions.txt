@@ -165,6 +165,7 @@ php7-xml-7.3.13-r0
 php7-xmlreader-7.3.13-r0
 php7-xmlwriter-7.3.13-r0
 php7-zip-7.3.13-r0
+php7-pdlib-1.0-r0
 pixman-0.38.4-r0
 pkgconf-1.6.3-r0
 popt-1.16-r7
